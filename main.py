@@ -4,4 +4,8 @@
 # Date:
 
 # Write your code here
-print("Hello")
+name=input("Enter name:")
+age=input("Enter age")
+print("""Welcome to Rizvi College of Engineering\n
+Hello, {name}
+You are {age} years old.""")
